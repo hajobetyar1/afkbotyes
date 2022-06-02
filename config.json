@@ -1,6 +1,6 @@
 {
-	"ip":"example.server.ip",
-	"port": "25565",
+	"ip":"game6.falix.cc:60371",
+	"port": "60371",
 	"name": "afkbot1",
 	"auto-night-skip":"false"
 }
